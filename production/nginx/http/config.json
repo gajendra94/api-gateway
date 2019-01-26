@@ -1,0 +1,12 @@
+{
+  "map": [
+    {
+      "source": "status",
+      "dest": "logger",
+      "values": {
+        "~^[23]": 1,
+        "default": 0
+      }
+    }
+   ]
+}
